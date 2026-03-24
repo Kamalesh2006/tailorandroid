@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">S Kumaran Tailors</string>
+    <string name="title_activity_main">S Kumaran Tailors</string>
+    <string name="package_name">com.skumarantailors.app</string>
+    <string name="custom_url_scheme">com.skumarantailors.app</string>
+</resources>
